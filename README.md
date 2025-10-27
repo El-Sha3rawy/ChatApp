@@ -1,2 +1,2 @@
 # CatApp
-Real time caht
+Real time chat
